@@ -1,0 +1,24 @@
+# Environments
+.env
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-selfcheck.json
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Log files
+*.log
+
+# System files
+.DS_Store

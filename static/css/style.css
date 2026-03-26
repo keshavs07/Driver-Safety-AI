@@ -1,0 +1,11 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.video-container {
+    min-height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}

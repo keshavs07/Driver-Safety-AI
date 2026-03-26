@@ -1,0 +1,12 @@
+Tech Stack:
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+- Pygame
+
+Features:
+- Real-time face tracking
+- Eye closure detection (EAR)
+- Yawn detection (MAR)
+- Alarm alert system
